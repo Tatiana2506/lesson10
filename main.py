@@ -27,5 +27,4 @@
 	for word in words_unicode:
 	    print('unicode', type(word), word)
 
-print("hello word")
 
